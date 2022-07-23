@@ -1,0 +1,17 @@
+*{
+    margin:30px;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+    
+
+}
+.cont:hover{
+    color: black;
+}
+.icons img
+{
+     size: 30px;
+     border-radius: 50%;
+}
